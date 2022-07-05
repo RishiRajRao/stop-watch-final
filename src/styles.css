@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+#btn-grp {
+  display: flex;
+  margin: 25% auto;
+  padding: 0px auto;
+}
+#timer-screen {
+  height: 200px;
+  border: 1px solid gray;
+}
+#stopwatch {
+  font-size: 60px;
+  text-align: center;
+}
+.btn {
+  width: 100px;
+  height: 30px;
+  margin-right: 20px;
+  border: 1px solid white;
+  color: black;
+  background-color: darkorange;
+}
